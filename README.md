@@ -3,6 +3,6 @@ Azure resume project.
 
 ## First Steps
 
-- Frontend foler contains the website.
+- Frontend folder contains the website.
 - main.js contains the visitor counter code.
 
